@@ -111,6 +111,19 @@ about:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunacharya&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true" width="95%"/>
 </div>
 
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <h3>🐍 Watch my contributions get eaten!</h3>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunacharya/tharunacharya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunacharya/tharunacharya/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/tharunacharya/tharunacharya/output/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 <!-- Current Focus -->
