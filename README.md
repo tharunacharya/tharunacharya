@@ -85,10 +85,13 @@ about:
 <a href="https://github.com/tharunacharya/AWS-Automatic-incident-healer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunacharya&repo=AWS-Automatic-incident-healer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" />
 </a>
+<a href="https://github.com/tharunacharya/employee_flutter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunacharya&repo=employee_flutter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" />
+</a>
 
 </div>
 
-> **🔬 Building the agentic layer** — from agent discovery & routing ([AgentHub](https://github.com/tharunacharya/AgentHub)) to autonomous browser control ([Agentic-Browser](https://github.com/tharunacharya/Agentic-Browser)), intelligent log analysis ([log_analyser_agent](https://github.com/tharunacharya/log_analyser_agent)), and self-healing cloud infrastructure ([AWS-Automatic-incident-healer](https://github.com/tharunacharya/AWS-Automatic-incident-healer)).
+> **🔬 Building the agentic layer** — from agent discovery & routing ([AgentHub](https://github.com/tharunacharya/AgentHub)) to autonomous browser control ([Agentic-Browser](https://github.com/tharunacharya/Agentic-Browser)), intelligent log analysis ([log_analyser_agent](https://github.com/tharunacharya/log_analyser_agent)), and self-healing cloud infrastructure ([AWS-Automatic-incident-healer](https://github.com/tharunacharya/AWS-Automatic-incident-healer)) — plus cross-platform mobile apps with Flutter ([employee_flutter](https://github.com/tharunacharya/employee_flutter)).
 
 ---
 
@@ -154,7 +157,7 @@ about:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun-acharya)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharunacharya)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmtharunchari@gmail.com)
 
 <br/>
 
