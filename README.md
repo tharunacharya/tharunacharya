@@ -100,7 +100,7 @@ about:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharunacharya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunacharya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunacharya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&hide=php" />
 </div>
 
 <div align="center">
